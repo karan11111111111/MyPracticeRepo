@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.st2, .v1, .mystyle1 {
+  flex: 1; /* Distribute space equally */
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #eee;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+.vertical-line {
+  width: 2px;
+  background-color: green;
+  margin: 0 20px;
+}
